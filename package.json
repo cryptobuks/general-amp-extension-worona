@@ -41,8 +41,8 @@
       "namespace": "generalAMP",
       "default": true,
       "menu": {
-        "fbia": {
-          "name": "General",
+        "amp": {
+          "niceName": "General",
           "category": "General",
           "order": 1
         }

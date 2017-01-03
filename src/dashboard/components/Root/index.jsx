@@ -18,7 +18,7 @@ const AMP = () => (
               <div className="message-body">
                 We are working to integrate more channels so you can distribute your content easily on mobile.
                 <br /><br />
-                If you want to learn more about Google AMP you can take a look to their <a target="_blank" href="https://www.ampproject.org" rel="noopener noreferrer">official site</a>,
+                If you want to learn more about Google AMP you can take a look to their <a target="_blank" href="https://www.ampproject.org" rel="noopener noreferrer">official site</a>,&nbsp;
                 <a target="_blank" href="https://www.ampproject.org/docs/support/faqs.html" rel="noopener noreferrer">the FAQs</a> or their <a href="https://www.ampproject.org/docs/get_started/about-amp.html" target="_blank" rel="noopener noreferrer">Getting started</a> guide.
                 <br /><br /><br />
                 <p className="control">
