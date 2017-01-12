@@ -35,15 +35,13 @@
     "authors": [
       "abel@worona.org"
     ],
-    "private": false,
     "dashboard": {
       "type": "extension",
       "namespace": "generalAMP",
-      "default": true,
       "menu": {
         "amp": {
           "niceName": "General",
-          "category": "General",
+          "category": "Settings",
           "order": 1
         }
       }
